@@ -1,0 +1,143 @@
+{
+  "products": [
+    {
+      "id": "somuqkvt9",
+      "cate_id": "1",
+      "name": "Lamborghini Aventador S (LP740-4)",
+      "image": "https://giaxeoto.vn/public/admin/webroot/img/upload2/gia-xe-Lamborghini-Aventador-S.png",
+      "price": "40 tỷ",
+      "status": false,
+      "detail": "Phiên bản mới của Aventador lấy tên thêm chữ S ở đằng sau ra mắt vào tháng 3/2017. Giới hâm mộ đánh giá Lamborghini Avetador S khá tích cực với động cơ thế hệ mới được gia tăng sức mạnh lên 729Hp. Hộp số tự động 7 cấp ISR đi kèm hệ dẫn động 4WD haldex thế hệ thứ 4. Khá nhiều cải tiến ở thiết kế đèn trước, đèn sau, các đường gân dập được bố trí lại đẹp và hầm hố hơn đồng thời cải thiện chỉ số cản gió nhờ hốc gió 2 bên. Theo biểu thuế bổ xung ngày 9/10/2017 của bộ tài chính thì Lamborghini Aventador S tại Việt Nam có giá trị tính thuế tối thiểu là 40 tỷ VNĐ. Hiện có 2 chiếc Aventador S tại Việt Nam."
+    },
+    {
+      "id": "mm8nvjivk",
+      "cate_id": "1",
+      "name": "Lamborghini Aventador LP700-4",
+      "image": "https://giaxeoto.vn/public/admin/webroot/img/upload2/gia-xe-Lamborghini-Aventador-LP-700-4-Roadster.jpg",
+      "price": "65656",
+      "status": false,
+      "detail": "Lamborghini Aventador LP700-4 trang bị động cơ V12 dung tích 6,5L, công suất tối đa 691Hp/8250rpm, mô men xoắn tối đa 690NM/5500rpm. Xe vọt lên tốc độ 100km/h trong 2,9s, có thể gọi là \"bay như gió\". Tốc độ tối đa theo công bố là 350km/h nhưng trên đường thử xe đã từng đạt 370km/h. Mức tiêu hao nhiên liệu trong thành phố và cao tốc tương ứng là 21,4L và 13,8L/100km. Lamborghini Aventador LP700-4 cùng với xe Porsche 911 Turbo S là 2 trong số 10 mẫu xe nhanh nhất thế giới đã được phân phối chính hãng tại Việt nam"
+    },
+    {
+      "id": "fgaiboon5",
+      "cate_id": "1",
+      "name": "Lamborghini Aventador LP750-SV",
+      "image": "https://giaxeoto.vn/admin/webroot/img/upload2/gia-Sieu-xe-Lamborghini-Aventador-SV-roadster.jpg",
+      "price": "1234",
+      "status": false,
+      "detail": "Một siêu phẩm nữa là Aventador LP750-SV. Được sản xuất giới hạn 600 chiếc trong thời gian từ 2015-2017, và 2 trong số đó đã về Việt Nam. Lamborghini Aventador SV Roadster trang bị động cơ V12, hút khí tự nhiên, dung tích 6,9 lít. Động cơ sản sinh công suất tối đa 750 mã lực và mô-men xoắn cực đại 690 Nm, cho phép xe tăng tốc từ 0-100 km/h trong khoảng 2,9 giây trước khi đạt vận tốc tối đa 350 km/h. Trong khi đó bản Coupe (của đại gia Minh Nhựa) dùng động cơ V12 dung tích 6,5L nhưng công suất vẫn 750Hp."
+    },
+    {
+      "id": "18yuid274",
+      "cate_id": "1",
+      "name": "Lamborghini Huracan LP610-4",
+      "image": "https://giaxeoto.vn/public/admin/webroot/img/upload2/gia-xe-lamborghini-huracan-lp610-4.jpg",
+      "price": "45 tỷ",
+      "status": false,
+      "detail": "Lamborghini Huracan được sản xuất để thay thế cho dòng xe Gallardo trước đây và nhanh chóng được đón nhận. Hồi tháng 6/2017, đã có đến  8.000 chiếc Huracan được sản xuất ra sau 3 năm ra mắt. Trước đó, Gallardo bán được khoảng 14.000 xe trong hơn một thập kỷ.\n\nHuracan LP610-4 sở hữu khối động cơ V10 5,2 lít cho công suất cực đại 610Hp và mô men xoắn cực đại 560Nm. Hộp số tự động 7 cấp. Siêu xe này có thể tăng tốc 0-100 km/h trong 3,2 giây, 0-200 km/h trong 9,9 giây và đạt vận tốc tối đa 325 km/h."
+    },
+    {
+      "id": "hq0y5c6sk",
+      "cate_id": "1",
+      "name": "Lamborghini Huracan LP580-2",
+      "image": "https://giaxeoto.vn/public/admin/webroot/img/upload2/gia-xe-lamborghini-huracan-lp580-2.jpg",
+      "price": "60 tỷ",
+      "status": false,
+      "detail": "Hay được dân chơi Việt nam gọi là  siêu xe Lamborghini giá rẻ, Huracan LP580-2 sở hữu khối động cơ V10 5,2 lít cho công suất cực đại 580Hp và mô men xoắn cực đại 540Nm. Ước tính tại Việt nam đã có trên 10 xe Huracan LP580-2 đã có chủ.\n\n"
+    },
+    {
+      "id": "jxg7oleke",
+      "cate_id": "4",
+      "name": "Aston Martin",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-28f2a.appspot.com/o/images%2Fgia-sieu-xe-aston-martin-valhalla.jpg?alt=media&token=78b3ab70-9d59-49e2-b5b5-b08182cb1602",
+      "price": "1.3 triệu",
+      "status": false,
+      "detail": "Aston Martin Lagonda Global Holdings PLC là nhà sản xuất xe thể thao hạng sang của Anh. Được thành lập vào năm 1913 bởi Lionel Martin và Robert Bamford. Aston Martin nổi tiếng với những chiếc xe thể thao GT đắt tiền trong những năm 1950s và 1960s, và với loạt phim James Bond.\n\nAston Martin cũng đã chính thức được phân phối chính hãng tại Việt nam từ tháng 03/2019. Các dòng xe nổi tiếng của Aston Martin như Vantage, DBS, Rapide S, Vanquish, DB11 và sắp tới là Valhalla, Valkyrie..."
+    },
+    {
+      "id": "5zngne4cc",
+      "cate_id": "5",
+      "name": "Siêu xe McLaren",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-28f2a.appspot.com/o/images%2Fgia-sieu-xe-McLaren-senna.jpg?alt=media&token=3ce09e72-8a20-4f6e-9d7f-2319867c8a4f",
+      "price": "1000000",
+      "status": false,
+      "detail": "McLaren Automotive (trước đây gọi là McLaren Cars) là một nhà sản xuất ô tô của Anh có trụ sở tại McLaren Technology Centre ở Woking, Surrey, Đông Nam nước Anh. Được thành lập vào năm 1985 bởi Ron Dennis, sản phẩm chính của công ty là các dòng siêu xe. Vào tháng 7 năm 2017, McLaren Automotive trở thành công ty con 100% vốn của Tập đoàn McLaren Groupe."
+    },
+    {
+      "id": "jflwn2imt",
+      "cate_id": "3",
+      "name": "TESLA MODEL S",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-28f2a.appspot.com/o/images%2Fbentley-mulsanne-6_75-edition-co-gia-bao-nhieu.jpg?alt=media&token=96a38789-7e09-4e41-9cfc-fa65d4f8e689",
+      "price": "2000000000",
+      "status": false,
+      "detail": "Ngôi sao của Arsenal, Hector Bellerin đã sở hữu chiếc xe Tesla Model S chạy điện thân thiện với môi trường. Chiếc xe này có giá 74.000 bảng Anh và có thể đạt tốc độ tối đa 199 dặm/giờ."
+    },
+    {
+      "id": "pemphmmu2",
+      "cate_id": "2",
+      "name": "FERRARI LAFERRARI",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-28f2a.appspot.com/o/images%2Fgia-sieu-xe-ferrari-812-gts.jpg?alt=media&token=d2ea515d-4fd7-4486-9721-3f89e53c2dcf",
+      "price": "32990000",
+      "status": false,
+      "detail": "Đây là chiếc xe đắt giá nhất trong danh sách này. Không có gì ngạc nhiên khi người mê chơi xe như siêu sao của Arsenal, Pierre-Emerick Aubameyang sở hữu chiếc xe này. Ngoài ra, cầu thủ của Tottenham, Son Heung-min cũng có 1 chiếc Ferrari Laferrari.\n\nChiếc siêu xe này là bản giới hạn khi hãng xe danh tiếng của Ý chỉ sản xuất đúng 499 chiếc Ferrari Laferrari. Giá của một chiếc Ferrari Laferrari rơi vào khoảng 2 triệu bảng Anh."
+    }
+  ],
+  "slider": [
+    {
+      "image": "https://www.dungplus.com/wp-content/uploads/2019/03/hinh-nen-sieu-xe-5-735x400.jpg"
+    },
+    {
+      "image": "https://www.dungplus.com/wp-content/uploads/2019/03/hinh-nen-sieu-xe-1-1.jpg"
+    },
+    {
+      "image": "https://www.dungplus.com/wp-content/uploads/2019/03/hinh-nen-sieu-xe-4.jpg"
+    },
+    {
+      "image": "https://www.dungplus.com/wp-content/uploads/2019/03/hinh-nen-sieu-xe-5-1.jpg"
+    }
+  ],
+  "categoryes": [
+    {
+      "id": "1",
+      "name": "Lamborghini",
+      "status": false
+    },
+    {
+      "id": "2",
+      "name": " Lexus",
+      "status": false
+    },
+    {
+      "id": "3",
+      "name": "Vinfast",
+      "status": false
+    },
+    {
+      "id": "4",
+      "name": "Mazda",
+      "status": false
+    },
+    {
+      "id": "5",
+      "name": "Chevrolet",
+      "status": false
+    },
+    {
+      "id": "9so5l0lt7",
+      "name": "FERRARI ",
+      "status": false
+    },
+    {
+      "id": "ag17okyar",
+      "name": "MUSTANG",
+      "status": false
+    }
+  ],
+  "about": [
+    {
+      "id": 1,
+      "detail": "Bởi ngoài số tiền khủng bỏ ra khi tậu xe ban đầu, người sử dụng còn tốn hàng đống tiền để sửa chữa, bảo dưỡng xe thường xuyên. Không những thế, các chủ xe vẫn phải ngậm ngùi nhìn cảnh giá xe bị tụt không phanh qua từng năm.\nXuất hiện tại Mỹ vào năm 2014, BMW I8 đã nhanh chóng trở thành mẫu xe hybrid thể thao bán chạy nhất thế giới. Điểm nổi bật của chiếc BMW I8 là có thiết kế hiện đại, đẹp mắt, mang phong cách tương lai. Tuy nhiên sức mạnh của BMW I8 chỉ ở mức trung bình khi chỉ đạt được tốc độ tối đa khoảng 250 km/h.\n\nTại thị trường Mỹ, giá của chiếc BMW I8 vào thời điểm ra mắt vào khoảng 136.000 USD. Nhưng do có động cơ hybrid phức tạp, khó sửa chữa, bảo dưỡng, mẫu xe này đã bị mất giá nhanh chóng.\nChiếc Aston Martin Vanquish 2012 có công suất động cơ lên tới 565 mã lực và sở hữu một khung gầm tuyệt vời. Nếu nhìn vào thiết kế bên ngoài, nhiều người sẽ thấy điểm tương đồng của mẫu xe này với chiếc DB9. Martin Vanquish 2012 mang lại cảm giác thoải mái, tiện nghi, tăng tốc nhanh và hoạt động tốt với điều kiện đường xá ở Anh.\n\nBất chấp những ưu điểm đó, chiếc Aston Martin Vanquish 2012 vẫn bị mất giá một cách nghiêm trọng. Dù giá bán cao ngất ngưởng nhưng chi phí vận hành một chiếc Martin Vanquish cũ còn lớn hơn nữa, chưa kể các phụ tùng thay thế rất khó kiếm. Chính vì lý do này đã khiến người dùng e dè. Hiện tại, giá của một chiếc Martin Vanquish đã qua sử dụng chỉ bằng một nửa giá xe mới.\nDòng Mercedes SL65 AMG thế hệ hiện tại được giới thiệu vào năm 2011, sở hữu động cơ V12 tăng áp kép, có khối lượng nhẹ hơn, tốc độ nhanh hơn thế hệ tiền nhiệm. Với giá bán lẻ khoảng 180.000 USD, nhìn chung đây là một chiếc xe thể thao tốt, kiểu dáng đẹp.\n\nTuy nhiên, giống như hầu hết các mẫu xe khác trong gia đình Mercedes, chiếc SL65 AMG cũng gặp phải nhược điểm về chi phí bảo dưỡng cao khiến mẫu xe này bị mất giá nhanh chóng.\n\n\nDưới đây là danh sách những chiếc xe bị mất giá nhanh nhất theo thống kê của tạp chí Hotcars.\n\nMcLaren Senna\n\nNhững chiếc siêu xe mất giá không phanh\nMcLaren Senna bị mất giá do sai lầm của nhà sản xuất. Ảnh: Carscoops\nChiếc McLaren Senna đã gây được tiếng vang lớn khi ra mắt vào năm 2018. Được đặt theo tên của tay đua Ayrton Senna, chiếc McLaren này có tốc độ tối đa là 334 km/h. Với giá bán ban đầu là 1 triệu USD, Senna có độ bám đường và cảm giác lái tuyệt vời.\n\nTuy nhiên, giá trị của chiếc xe đang tụt dốc nghiêm trọng qua từng năm. Nguyên nhân bắt nguồn từ chính việc hãng xe McLanren đã tung ra quá nhiều mẫu xe \"phiên bản đặc biệt\" trong vài năm qua. Kết quả cuối cùng là chẳng có phiên bản nào thực sự đặc biệt cả.",
+      "images": "https://firebasestorage.googleapis.com/v0/b/shop-28f2a.appspot.com/o/images%2Flamborghini-aventador-gia-bao-nhieu.jpg?alt=media&token=ed73dbd5-ffbb-43b6-bb9a-967019952eb3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+1. khai báo package.json ==> npm init -y
+2. cài đặt webpack ==> npm i -d webpack webpack-cli webpack-dev-server
+3. định nghĩa câu npm start trong file package.json ==>"Start": "webpack serve --open"
+4. cài đặt file json   npm install -g json-server
+5. sau khi cài json, json-server --watch db.json hoặc npm run start:server để biến file data.json thành link giống mockapi
+
+
+
+
+
+
+
+- Lab 1 - 2: Trang chủ
+- Lab 3 - 4 : Các khác ( about, contact, news,...) 
+- Lab 5 - 6:  Danh sách sp, chi tiết, danh mục sp 
+- Lab 7 - 8:  Trang quản lý category, products ( CRUD )
+- Assignment : Nếu chỉ làm được những yêu cầu trên thì 6d
+    - Chức năng thêm: 
+            - Dễ: 0.5d ( Filter, sort, category, validate, login, register...)
+            - Khó: 1d ( cart, quản lý order)
+p/s: Giao diện tốt +1d
